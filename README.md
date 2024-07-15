@@ -1,0 +1,2 @@
+# toubatsusen
+ターゲットを指定してボコボコにできるDiscordBotの拡張版
